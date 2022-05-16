@@ -1,0 +1,21 @@
+.jimmy {
+    text-align: center;
+    background-color:rgb(17, 150, 139);
+    border-radius: 1ex;
+  }
+.imagen-logo{
+  width:300px;
+  border-radius: 2ex;
+}
+
+.personalizar-navbar{
+  background-color: rgb(223, 223, 223);
+  border-bottom-right-radius: 2ex;
+  border-bottom-left-radius: 2ex;
+}
+.color-fondo{
+  background-color:rgb(223, 223, 223);
+}
+.bordesdecard{
+  border-radius:1ex;
+}
